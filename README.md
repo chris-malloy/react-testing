@@ -36,4 +36,6 @@ Here are some of challenges I encountered along the way and how I went about sol
 
 ### Acknowledgements
 
+Project is cloned from Stephen Grider's [repo](https://github.com/StephenGrider/ReduxSimpleStarter).
+
 Stephen Grider, thank you for your course.  It was a great way to take my React knowledge to the next level.
