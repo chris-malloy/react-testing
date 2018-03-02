@@ -1,25 +1,39 @@
-# ReduxSimpleStarter
+# React Testing
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is an introduction to testing in react.
 
-### Getting Started
+***
 
-There are two methods for getting started with this repo.
+[Installation](https://github.com/chris-malloy/video-player#installation) | [Testing](https://github.com/chris-malloy/video-player#testing) | [Challenges and Solutions](https://github.com/chris-malloy/video-player#challenges-and-solutions) | [Code Snippets](https://github.com/chris-malloy/video-player#code-snippets) | [Acknowledgements](https://github.com/chris-malloy/video-player#acknowledgements)
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+***
 
+## Installation
+
+OS X & Linux:
+
+```sh
+npm install
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
+
+## Testing
+
+Snapshot testing is done with Jest and assertion testing is done with Enzyme.
+
+```sh
+npm install --save-dev jest babel-jest babel-preset-env babel-preset-react react-test-renderer
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+```sh
+npm i --save-dev enzyme enzyme-adapter-react-16
+```
 
-```
-> npm install
-> npm start
-```
+### Challenges and Solutions
+
+Here are some of challenges I encountered along the way and how I went about solving them.
+
+### Code Snippets
+
+### Acknowledgements
+
+Stephen Grider, thank you for your course.  It was a great way to take my React knowledge to the next level.
