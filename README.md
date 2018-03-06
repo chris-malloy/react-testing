@@ -18,15 +18,7 @@ npm install
 
 ## Testing
 
-Snapshot testing is done with Jest and assertion testing is done with Enzyme.
-
-```sh
-npm install --save-dev jest babel-jest babel-preset-env babel-preset-react react-test-renderer
-```
-
-```sh
-npm i --save-dev enzyme enzyme-adapter-react-16
-```
+Testing is done with mocha and helper classes from chai-jquery.
 
 ### Challenges and Solutions
 
