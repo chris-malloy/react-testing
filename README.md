@@ -4,7 +4,7 @@ This is an introduction to testing in react.
 
 ***
 
-[Installation](https://github.com/chris-malloy/video-player#installation) | [Testing](https://github.com/chris-malloy/video-player#testing) | [Challenges and Solutions](https://github.com/chris-malloy/video-player#challenges-and-solutions) | [Code Snippets](https://github.com/chris-malloy/video-player#code-snippets) | [Acknowledgements](https://github.com/chris-malloy/video-player#acknowledgements)
+[Installation](https://github.com/chris-malloy/react-testing#installation) | [Testing](https://github.com/chris-malloy/react-testing#testing) | [Challenges and Solutions](https://github.com/chris-malloy/react-testing#challenges-and-solutions) | [Code Snippets](https://github.com/chris-malloy/react-testing#code-snippets) | [Acknowledgements](https://github.com/chris-malloy/react-testing#acknowledgements)
 
 ***
 
